@@ -1,0 +1,6 @@
+framework module HudExtension {
+  umbrella header "HudExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
